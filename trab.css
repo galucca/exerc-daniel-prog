@@ -1,0 +1,105 @@
+*{
+
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  
+  }
+  body{
+  
+  background: #2e2e39;
+  display: flex;
+  justify-content: center;
+  margin:50px 0px;
+  }
+  
+  h1{
+  
+  font-family: 'Amatic SC', cursive;
+  font-size: 50px;
+    color:white;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  #ex1 {
+    font-family: 'Inter', sans-serif;
+  color:white;
+    border:3px solid #60cf8c;
+    border-radius: 20px;
+    padding:15px;
+    background: rgba(0, 0, 0, 0.1);
+    font-size: 20px;
+  }
+  
+  #ex1 p{
+  
+    padding:10px;
+  }
+  
+  #ex1 input{
+  
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid #60cf8c;
+    border-radius: 10px;
+    padding:6px;
+    color:white;
+  }
+  
+  #ex1 button{
+  
+    background-color: #60cf8c;
+    padding: 5px;
+    border:none;
+    border-radius: 8px;
+    font-size: 15px;
+    margin-left:10px;
+    transition:0.3s;
+  }
+  
+  #ex1 button:hover{
+  
+    font-size: 15.5px;
+  }
+  
+  /* exercicio 2 */
+  
+  #ex2 {
+    font-family: 'Inter', sans-serif;
+  color:white;
+    border:3px solid #60cf8c;
+    border-radius: 20px;
+    padding:15px;
+    background: rgba(0, 0, 0, 0.1);
+    font-size: 20px;
+  }
+  
+  #ex2 p{
+  
+    padding:10px;
+  }
+  
+  #ex2 input{
+  
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid #60cf8c;
+    border-radius: 10px;
+    padding:6px;
+    color:white;
+  }
+  
+  #ex2 button{
+  
+    background-color: #60cf8c;
+    padding: 5px;
+    border:none;
+    border-radius: 8px;
+    font-size: 15px;
+    margin-left:10px;
+    transition:0.3s;
+  }
+  
+  #ex2 button:hover{
+  
+    font-size: 15.5px;
+  }
